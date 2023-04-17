@@ -65,3 +65,21 @@ In this turorial, we learn the easy ways to visualize several different point cl
 [![YouTube](https://img.shields.io/static/v1.svg?logo=youtube&label=YouTube&message=Ask%20Questions&color&color=red)](https://youtu.be/VpyJy0DnWHE) If you have any question, please comment on the YouTube video. 
 
 ---
+
+<table border="0" width="10%">
+  <tr>
+    <td><img src="https://img1.github.io/tmp/1.jpg" height="80" width="82"></td>
+    <td><img src="https://img1.github.io/tmp/2.jpg" height="80" width="82"></td>
+    <td><img src="https://img1.github.io/tmp/3.jpg" height="80" width="82"></td>
+  </tr>
+  <tr>
+    <td><img src="https://img1.github.io/tmp/4.jpg" height="80" width="82"></td>
+    <td><img src="https://img.shields.io/github/stars/LightsCameraVision/Point-Cloud-Visualization.svg?style=social"></td>
+    <td><img src="https://img1.github.io/tmp/6.jpg" height="82" width="82"></td>
+  </tr>
+   <tr>
+    <td><img src="https://img1.github.io/tmp/7.jpg" height="82" width="82"></td>
+    <td><img src="https://img1.github.io/tmp/8.jpg" height="82" width="82"></td>
+    <td><img src="https://img1.github.io/tmp/9.jpg" height="82" width="82"></td>
+  </tr>
+</table>
