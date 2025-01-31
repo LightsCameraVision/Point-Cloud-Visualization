@@ -1,6 +1,10 @@
 # Point Cloud Visualization
 
 ![Status](https://img.shields.io/static/v1.svg?label=Status&message=Finished&color=green)
+
+## Overview
+This repository provides code for visualizing common LiDAR point cloud file formats (e.g., PLY, PCD, LAS, NPY) from popular datasets using Open3D and PPTK, as demonstrated in the YouTube tutorial.
+
    
 **Video Tutorial:** 
 [![YouTube](https://img.shields.io/static/v1.svg?logo=youtube&label=YouTube&message=Point%20Cloud%20Visualization&color=red)](https://youtu.be/VpyJy0DnWHE)   
@@ -34,7 +38,7 @@ Please download the data folder from this [link](https://www.dropbox.com/s/t7p9e
 ```
 
 ## What to Expect?
-In this turorial, we learn the easy ways to visualize several different point cloud file formats that are commonly used to store point cloud-type information using two very popular python packages ([Open3D](http://www.open3d.org/) & [pptk - Point Processing Toolkit](https://github.com/heremaps/pptk)).
+In this turorial, we learn the easy ways to visualize several different point cloud file formats that are commonly used to store point cloud-type information using two very popular Python packages ([Open3D](http://www.open3d.org/) & [pptk - Point Processing Toolkit](https://github.com/heremaps/pptk)).
 
 * The list of file formats covered here is below, with references to the popular datasets they are found in.
   - ply (Toronto3D)
