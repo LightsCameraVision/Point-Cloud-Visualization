@@ -78,7 +78,7 @@ In this turorial, we learn the easy ways to visualize several different point cl
   </tr>
   <tr>
     <td><img src="https://img1.github.io/tmp/4.jpg" height="80" width="82"></td>
-    <td><img src="https://img.shields.io/github/stars/jibanul/Point-Cloud-Visualization.svg?style=social"></td>
+    <td><img src="https://img.shields.io/github/stars/LightsCameraVision/Point-Cloud-Visualization.svg?style=social"></td>
     <td><img src="https://img1.github.io/tmp/6.jpg" height="82" width="82"></td>
   </tr>
    <tr>
